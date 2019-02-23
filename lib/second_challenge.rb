@@ -11,3 +11,5 @@ def second_challenge
   puts groceries.values   
 
 end
+
+second_challenge
