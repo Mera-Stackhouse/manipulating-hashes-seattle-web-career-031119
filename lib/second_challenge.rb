@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-  puts groceries.values   
+  groceries.values.flatten 
 
 end
 
